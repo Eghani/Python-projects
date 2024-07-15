@@ -1,7 +1,3 @@
-Certainly! Here's the updated `read.md` file with upcoming projects mentioned instead of the "Etc" section:
-
----
-
 # Welcome to Ehteshamul Ghani's Python Projects Repository
 
 ## Introduction
