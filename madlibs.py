@@ -1,7 +1,7 @@
 # Mad Libs Game in Python
 
 # Function to play Mad Libs
-def play_madlibs():
+def madlibs_game():
     # Template for the story
     story_template = """
     Once upon a time in a {adjective1} land, there was a {adjective2} {noun1} named {name}. 
@@ -43,4 +43,6 @@ def play_madlibs():
     print(story)
 
 # Start the game
-play_madlibs()
+madlibs_game()
+
+# make sure you try it by your self 
